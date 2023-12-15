@@ -52,7 +52,7 @@ EXECUTE TASK ORDERS_UPDATE_TASK;
 -- https://docs.snowflake.com/en/user-guide/ui-snowsight-tasks.html
 
 -- Remove the filter on "User" and under "Filters" toggle the "Queries executed by user tasks"
-
+*/
 
 
 -- Alternatively, here are some manual queries to get at the same details

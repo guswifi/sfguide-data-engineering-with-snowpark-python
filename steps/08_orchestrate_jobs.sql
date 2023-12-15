@@ -49,7 +49,7 @@ EXECUTE TASK ORDERS_UPDATE_TASK;
 -- TODO: Add Snowsight details here
 -- https://docs.snowflake.com/en/user-guide/ui-snowsight-tasks.html
 
-
+*/
 
 -- Alternatively, here are some manual queries to get at the same details
 SHOW TASKS;
